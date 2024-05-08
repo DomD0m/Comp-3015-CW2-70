@@ -1,0 +1,3 @@
+﻿  scenebasic_uniform.cpp
+C:\Users\Pikac\Desktop\Edge Detection\scenebasic_uniform.cpp(23,79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Project_Template.vcxproj -> C:\Users\Pikac\Desktop\Edge Detection\x64\Debug\Project_Template.exe
